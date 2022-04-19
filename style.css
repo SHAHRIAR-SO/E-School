@@ -1,0 +1,38 @@
+.btn btn-outline-success{
+    margin-right: 50px;
+    border-radius: 30px;
+}
+.carousel-inner{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#c{
+    color: brown;
+}
+#l{
+    font-weight: bolder;
+}
+.buy-now-button{
+    padding: 15px 15px;
+    background-color: seagreen;
+   color: aliceblue;
+    border-radius: 30px;
+}
+#s{
+    color: seagreen;
+}
+
+.animation{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+.d-flex img{
+    padding: 10%;
+}
+#f{
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 20px;
+    
+}
